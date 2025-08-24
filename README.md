@@ -152,5 +152,4 @@ GPA: 2.92 / 4.00
 
 <p align="center">
   <b>Thanks for visiting my profile! 🌱 Let's connect and build something awesome together!</b><br>
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="120" />
 </p>
