@@ -139,7 +139,6 @@ GPA: 2.92 / 4.00
     </li>
     <li>
       <b>Burak Berk Emekdar</b> – Software Engineer, BTK - ICT<br>
-      Phone: +90 543 435 1644<br>
       Email: emekdarburakberk@gmail.com
     </li>
   </ul>
